@@ -36,6 +36,4 @@ app.get('*', (req, res) => {
 
 // ================================ DEPLOY APP ================================
 
-app.listen(3000, () => {
-    console.log('Server has started!');
-});
+app.listen(process.env.PORT, process.env.IP);
