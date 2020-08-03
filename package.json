@@ -1,6 +1,6 @@
 {
     "name": "alexs-personal-website",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "This independent project is where I deploy my first website.",
     "main": "index.js",
     "scripts": {
